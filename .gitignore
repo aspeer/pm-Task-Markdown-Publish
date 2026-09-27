@@ -1,0 +1,16 @@
+Makefile
+Makefile.old
+MYMETA.json
+MYMETA.yml
+META.yml
+META.json
+blib/
+pm_to_blib
+/site/
+/node_modules/
+*.bak
+*.old
+*~
+*.tmp
+*.sha
+Task-Markdown-Publish-*
