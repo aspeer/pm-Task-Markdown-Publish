@@ -1,5 +1,10 @@
 Revision history for Task-Markdown-Publish
 
+0.002  2026-10-04
+
+    - Require the latest Task::Markdown::Pod, Markdown::Publish, and
+      MakeMaker publication integration releases.
+
 0.001  2026-09-27
 
     - First release.
